@@ -14,7 +14,7 @@
 - Allows for disabling the Bushes objects or the Sea
 - Configure Flash Light Intensity and Range
 - Configure the Contrast to change how the game looks
-- Apply any changes to config.json file by pressing Right CTRL + R to reload changes while in game
+- Apply any changes to config.json file by pressing LEFT CTRL + R to reload changes while in game
 
 ## Important!
 
