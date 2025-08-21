@@ -115,7 +115,7 @@
     - Default: 1.0 (Note: Must have decimal point in value)
 
 - hotReloadEnabled:
-    - true: While pressing Right CTRL + R keys the configuration will reload and apply any changes.
+    - true: While pressing LEFT CTRL + R keys the configuration will reload and apply any changes.
     - false: Hot Reload feature is disabled and configuration changes will only be reloaded if the save file is reloaded from Main Menu.
 
 - camFarClipPlane:
